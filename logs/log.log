@@ -1,0 +1,7 @@
+2014-05-27 16:14:38,700  INFO - TestThread is Run
+2014-05-27 16:14:58,672  INFO - TestThread is Run
+2014-05-27 16:15:03,934  INFO - TestThread is Run
+2014-05-27 16:15:34,757  INFO - TestThread is Run
+2014-05-27 22:35:47,366  WARN - Tried to assign property name:java.lang.String to bean of class com.slf.bo.LsCz
+2014-05-27 22:38:26,430  WARN - Tried to assign property name:java.lang.String to bean of class com.slf.bo.LsCz
+2014-05-27 22:39:48,723  WARN - Tried to assign property name:java.lang.String to bean of class com.slf.bo.LsCz
